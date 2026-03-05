@@ -2,3 +2,5 @@ ghozali resolusi
 -membuat konten
 -membuat platfom
 -membuat diskusi
+-membuat shop
+-kolaborasi
